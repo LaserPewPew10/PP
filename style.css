@@ -218,6 +218,9 @@ html {
 
 .section-3 {
   width: 100%;
+  height: 100%;
+  padding: 10rem 0;
+  background-color: #eef;
 }
 
 /* End of section 3 */
